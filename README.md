@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jerespy😏
 - 👀 I’m interested in PHP [Laravel] & java[Boot Spring]...
-- 🌱 .....................
+- 🌱 
 - 💞️ I love solving complex problems.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/osah-prince)
 

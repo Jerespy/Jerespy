@@ -9,3 +9,5 @@ Jerespy/Jerespy is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 Okay, we are good ✅ ✨
 --->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jerespy)](https://git.io/streak-stats)
